@@ -1,2 +1,11 @@
 Use 'whois <domain name>' command, search for "Name Server:"
 whois slash16.org | grep "Name Server:" | awk '{print $3}'
+
+NS-1236.AWSDNS-26.ORG
+NS-144.AWSDNS-18.COM
+NS-686.AWSDNS-21.NET
+NS-1989.AWSDNS-56.CO.UK
+ns-144.awsdns-18.com
+ns-1989.awsdns-56.co.uk
+ns-1236.awsdns-26.org
+ns-686.awsdns-21.net
