@@ -1,0 +1,1 @@
+ls -l /etc/init.d | grep -Eo "[^0-9 ][a-z.0-9:\-]+$"

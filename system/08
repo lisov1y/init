@@ -1,0 +1,2 @@
+ When there are no keys, 'id_rsa' file doesn't exist. To create RSA key run 'ssh-keygen' command. Path:
+ ~/.ssh/id_rsa
